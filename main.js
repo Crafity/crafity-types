@@ -1,5 +1,9 @@
 /*jslint node:true */
 
+var storage = require('./lib/crafity.types');
+
+module.exports = storage;
+
 /**
  * Module name.
  */
