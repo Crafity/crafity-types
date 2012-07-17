@@ -1,7 +1,7 @@
 {
 	"name": "crafity-types",
 	"description": "Generic Type Module",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"author": "Bart Riemens <briemens@crafity.com>",
 	"homepage": "https://github.com/Crafity/crafity-types/wiki",
 	"keywords": [ "crafity", "types"  ],
