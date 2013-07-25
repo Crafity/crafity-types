@@ -40,12 +40,10 @@
     }
   ],
   "bugs": "https://github.com/Crafity/crafity-types/issues",
-  "repositories": [
-    {
-      "type": "git",
-      "url": "https://github.com/Crafity/crafity-types.git"
-    }
-  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Crafity/crafity-types.git"
+  },
   "dependencies": {
     "crafity-jstest": "*"
   },
