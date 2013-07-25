@@ -5,6 +5,7 @@
  * package.test - package.json tests
  * Copyright(c) 2010-2013 Crafity
  * Copyright(c) 2010-2013 Bart Riemens
+ * Copyright(c) 2010-2013 Galina Slavova
  * MIT Licensed
  */
 
