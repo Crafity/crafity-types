@@ -3,15 +3,16 @@
 
 /*!
  * crafity.types.test - Crafity Types tests
- * Copyright(c) 2012 Crafity
- * Copyright(c) 2012 Galina Slavova
- * Copyright(c) 2012 Bart Riemens
+ * Copyright(c) 2010-2013 Crafity
+ * Copyright(c) 2010-2013 Bart Riemens
+ * Copyright(c) 2010-2013 Galina Slavova
  * MIT Licensed
  */
 
 /**
  * Test dependencies.
  */
+  
 var jstest = require('crafity-jstest')
   , assert = jstest.assert
   , context = jstest.createContext()
