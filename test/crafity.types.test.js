@@ -1,4 +1,4 @@
-/*jslint node:true, white:true, vars:true */
+/*jslint node: true, white: true */
 /*!
  * crafity.types.test - Crafity Types tests
  * Copyright(c) 2012 Crafity

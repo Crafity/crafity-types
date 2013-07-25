@@ -1,4 +1,4 @@
-/*jslint node:true, white:true, stupid: true */
+/*jslint node: true, white: true, stupid: true */
 /*!
  * package.test - package.json tests
  * Copyright(c) 2011 Crafity
