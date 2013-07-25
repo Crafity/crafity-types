@@ -1,4 +1,6 @@
 /*jslint node: true, white: true, stupid: true */
+"use strict";
+
 /*!
  * package.test - package.json tests
  * Copyright(c) 2011 Crafity
@@ -18,7 +20,6 @@ var jstest = require('crafity-jstest')
   ;
 
 (function packageTests() {
-  "use strict";
 
   /**
    * The tests

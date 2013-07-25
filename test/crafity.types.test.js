@@ -1,4 +1,6 @@
 /*jslint node: true, white: true */
+"use strict";
+
 /*!
  * crafity.types.test - Crafity Types tests
  * Copyright(c) 2012 Crafity
@@ -17,7 +19,6 @@ var jstest = require('crafity-jstest')
   ;
 
 (function packageTests() {
-  "use strict";
 
   /**
    * The tests
