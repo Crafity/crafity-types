@@ -15,7 +15,7 @@
   
 var jstest = require('crafity-jstest')
   , assert = jstest.assert
-  , context = jstest.createContext()
+  , context = jstest.createContext("Crafity Types tests")
   , Types = require('../lib/crafity.types').Types
   ;
 
